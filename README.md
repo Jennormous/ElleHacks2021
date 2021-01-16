@@ -1,8 +1,5 @@
 # ElleHacks2021
-p {
-  width: 70%;
-  text-align: center;
-}
+
 <h4 align="center"> :sparkles: Developers: Ana Maria Rodriguez Vera, Laiba Zaman, Jennefer Boudreau </h4>
 
 <h2> Description </h2>
