@@ -21,9 +21,13 @@ Follow the "Using Client Libraries" guide from GoogleCloud
 https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries
 
 NOTE: This module requires the dependencies `pyaudio` and `termcolor`.
+
 To install using pip:
+
     pip install pyaudio
     pip install termcolor
-Example usage:
-    python voice_to_text.py
 
+Example usage:
+    python voice_to_text.py <language>
+
+If <language> is not set, then english will be chosen by default. For options on languages: https://cloud.google.com/speech-to-text/docs/languages
