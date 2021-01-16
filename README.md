@@ -11,7 +11,7 @@
   interactive application suggests recipies with food a home</p>
 
 <h2> Built With </h2>
-<p> Python (Kivy framework) and UI design Adobe XD</p>
+<p> Node.js and UI design done through Adobe XD</p>
 
 <h2> Installation </h2>
 
